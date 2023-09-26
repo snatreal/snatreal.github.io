@@ -19,6 +19,7 @@ SNATREAL
     <!--cabeza de la página-->
     <header>
         <h1 class="titulo">Real Madrid</h1>
+       
     </header>
  <!--Navegación de la pagina-->
 <nav class="navegacion">
@@ -62,6 +63,7 @@ SNATREAL
 </div>
 <!--Parte inferior de la pagina-->  
 <footer> contactos y derechos de autor </footer>
-
+<footer> Santiago Bustos Valbuena </footer>
+<img src="C:\Users\804\Downloads\OCTAVO\OCTAVO\img\fotos.png">
 </body>
 </html>
