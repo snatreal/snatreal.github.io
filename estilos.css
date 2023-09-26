@@ -1,0 +1,55 @@
+body
+{
+    background-image: url("https://i.pinimg.com/736x/ea/7c/c1/ea7cc1f1bd64978a150dfcbb13bd8249.jpg");
+    /*background-attachment: fixed;/*toda la hoja*/
+}
+
+
+h1
+{
+    text-align: center;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+
+p
+{
+    background-color:black;
+    color: yellow;
+    margin: 10px;
+}
+
+/* clase para título*/
+.titulo
+{
+    font-family: 'Lilita One', cursive;
+    font-size: 50px;
+    letter-spacing: 2px;
+   text-align: center;
+   font-weight: 400;/*grosor del texto*/
+      /*background-color:green*/
+   
+    
+}
+.navegacion
+{
+    font-family: 'Edu SA Beginner', cursive;
+    color:white;
+    text-decoration: none;
+    /*width: auto;*/
+    margin: 0px auto;/*distancia entre la barra de navegación y titulo*/
+    background-color:#1C79A7;
+    padding: 8px;
+    text-decoration:none;
+    /*distribuye la barra de menú*/
+    display: flex;
+    justify-content:space-around;
+}
+/*clase para distribuir los parrafos*/
+.principal
+{
+display:flex;
+
+}
